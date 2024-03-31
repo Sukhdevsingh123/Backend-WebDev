@@ -1,0 +1,22 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    background-color: transparent;
+    text-align: center;
+    color: rgb(194, 26, 26);
+}
+.post{
+    background-color: rgba(147, 140, 121, 0.103);
+}
+.username{
+    text-align: center;
+    color: rgb(52, 52, 87);
+}
+.password{
+    text-align: center;
+    color:brown
+
+}
